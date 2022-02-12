@@ -1,5 +1,6 @@
 <h1 align="left">Hi, <img src="https://raw.githubusercontent.com/srikanta30/srikanta30/main/assets/wave.gif" width="30px"> I'm Dinesh Sharma</h1>
 <h3 align="left"> A Passionate Software Engineer Based In India. I'm a computer guy thourgh and through, this world always made me curious to learn the hows and whys? So I decided to be a developer. Currently looking for oppurtunities to work as a MERN stack dev..</h3>
+<img align='right' src="https://c.tenor.com/aD7y5Tg9BzwAAAAC/web-design-modern-web-gif.gif" width="230">
 
 
 <p align="left">
