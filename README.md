@@ -28,7 +28,7 @@
     <a href="mailto:dinoweblog@gmail.com"><img src="https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a> 
     <a href="https://in.linkedin.com/in/dino-web"><img src="https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
     <a href="https://twitter.com/imD1nesh"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white"></a>
-<!--     <a href="https://dineshsharma.netlify.app">Portfolio <img width="20" src="https://cdn-icons.flaticon.com/png/512/3405/premium/3405247.png?token=exp=1644739002~hmac=6aa12bb93705649490b82ce6aaca041e"></a> -->
+    <a href="https://dineshsharma.netlify.app"> <img src="https://img.shields.io/badge/-Portfolio-FFCC1D?style=for-the-badge&logo=Apostrophe&logoColor=white"></a>
 
 </p>
 
