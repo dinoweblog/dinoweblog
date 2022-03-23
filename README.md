@@ -41,11 +41,9 @@
 </p> -->
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=dinoweblog-github-username&color=8e8cd8" alt="dinoweblog" /> </p> -->
 
-<p><img width="50%" border="1" margin-bottom= "30" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dinoweblog&show_icons=true&locale=en&layout=compact" alt="dinoweblog" /></p> <br> <br>
 
-<p>&nbsp;<img width="50%"  margin-top="30" align="left" src="https://github-readme-stats.vercel.app/api?username=dinoweblog&show_icons=true&locale=en" alt="dinoweblog" /></p> <br> 
-
-<p><img width="50%" align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=dinoweblog&" alt="dinoweblog" /></p>
-
-
-
+<p align="center"  height= "300px"> 
+   <img height= "250px" width ="46%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dinoweblog&theme=react&layout=compact" />
+   <img height= "250px" width ="46%" src="https://github-readme-stats.vercel.app/api?username=dinoweblog&theme=react&show_icons=true&include_all_commits=true"/>
+       
+ </p>
