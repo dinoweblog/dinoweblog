@@ -1,4 +1,5 @@
-<h1 align="left">Hi, <img src="https://raw.githubusercontent.com/srikanta30/srikanta30/main/assets/wave.gif" width="30px"> I'm Dinesh Sharma</h1>
+<h1 align="left">Hi, <img src="https://raw.githubusercontent.com/srikanta30/srikanta30/main/assets/wave.gif" width="30px"> I'm Dinesh Sharma<p align="left">I'm from Bhagalpur, Bihar</p></h1>
+
 <h4 align="left">An aspiring full stack developer with a specialization in 💻 MERN stack. Keenly interested in problem-solving and making user-centric products, self-motivated and curious. Looking forward to honing my skills in a challenging work environment.</h4>
 <img align='right' src="https://c.tenor.com/aD7y5Tg9BzwAAAAC/web-design-modern-web-gif.gif" width="230">
 
