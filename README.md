@@ -44,7 +44,8 @@
 
 
 <p align="center"  height= "300px"> 
-   <img height= "250px" width ="46%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dinoweblog&theme=react&layout=compact" />
-   <img  src="https://github-stats-alpha.vercel.app/api?username=dinoweblog&cc=252734&tc=fff&ic=fff&bc=fff"/>
+   <img height= "100%"  src="https://github-stats-alpha.vercel.app/api?username=dinoweblog&cc=252734&tc=fff&ic=fff&bc=fff"/>
+   <img height= "100%" width ="46%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dinoweblog&theme=react&layout=compact" />
+  
        
  </p>
