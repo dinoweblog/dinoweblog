@@ -45,6 +45,6 @@
 
 <p align="center"  height= "300px"> 
    <img height= "250px" width ="46%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dinoweblog&theme=react&layout=compact" />
-   <img height= "250px" width ="46%" src="https://github-readme-stats.vercel.app/api?username=dinoweblog&theme=react&show_icons=true&include_all_commits=true"/>
+   <img  src="https://github-stats-alpha.vercel.app/api?username=dinoweblog&cc=252734&tc=fff&ic=fff&bc=fff"/>
        
  </p>
