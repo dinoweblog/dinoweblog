@@ -9,7 +9,7 @@
    🤝 I am open to collaborate on any project that is impactful and makes the world a better place. <br/>
    ⚡ I like to watch web series & movies, I also follow cricket.<br/>
    🔭 I’m currently working on [My Portfolio].<br/>
-  🗺️ Want to know more? Check out my portfolio <a href="https://dineshsharma.netlify.app/"> here 🔗</a>. <br/>
+  🗺️ Want to know more? Check out my portfolio <a target="_blank" href="https://dinoweblog.github.io"> here 🔗</a>. <br/>
 </p>
 
 <h3 align="left">My Tools & Tech Stack 🛠️:</h3>
