@@ -1,6 +1,8 @@
 <h1 align="left">Hi, ✋ I'm Dinesh Sharma</h1>
 
-<h4 align="left">I specialize in the MERN stack and am passionate about creating user-centric products through problem-solving. As an experienced full-stack developer, I am self-motivated, curious, and eager to grow. I thrive in challenging environments and am excited to collaborate with other talented professionals to drive business success.</h4>
+<h4 align="left">As an experienced full-stack developer specializing in the MERN
+stack. Keenly interested in problem-solving and making usercentric products, self-motivated and curious. Looking forward to
+honing my skills in a challenging work environment.</h4>
 <img align='right' src="https://c.tenor.com/aD7y5Tg9BzwAAAAC/web-design-modern-web-gif.gif" width="230">
 
 
